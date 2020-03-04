@@ -1,6 +1,8 @@
 # Projeto - Encurtador de URL
 ## Tecnologias utilizadas
-* NodeJS
-* EJS
-* Express
-* MongoDB
+
+### NodeJS
+### EJS
+#### Bootstrap
+### Express
+### MongoDB
